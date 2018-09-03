@@ -1,10 +1,9 @@
-------------------------------------------------------------------------------------------------------------------------------------------
 Software stack used while developing and running the project	
 	- Language: Java 9
 	- Compiler: jdk-9.0.4
 	- IDE: Eclipse JEE Oxygen
 	- O/S: Windows 10
-------------------------------------------------------------------------------------------------------------------------------------------
+
 Instructions to run the project from command line:
 	- Naviagate to sxk173732/ and open command prompt at this location
 	- Compile the source file 
@@ -25,7 +24,7 @@ Instructions to run the project from command line:
 					- <filename> is the absolute path
 		- With Enumeration
 			Add a second parameter whose value is greater than 0 to the above commands
-------------------------------------------------------------------------------------------------------------------------------------------
+
 Instructions to run the project from eclipse IDE:
 	- Create a new java project with package sxk173732. Copy the source file in the package. 
 	  	- Right click source file --> Run As -> Run Configurations.
@@ -42,4 +41,3 @@ Instructions to run the project from eclipse IDE:
 				- enter absolute path of filename where input is typed
 		- With enumeration
 			- add a second parameter whose value is greater than 0.
-------------------------------------------------------------------------------------------------------------------------------------------
