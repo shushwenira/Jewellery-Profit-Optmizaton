@@ -1,8 +1,8 @@
-Software stack used while developing and running the project	
-	- Language: Java 9
-	- Compiler: jdk-9.0.4
-	- IDE: Eclipse JEE Oxygen
-	- O/S: Windows 10
+Software stack used while developing and running the project:	
+ - Language: Java 9
+ - Compiler: jdk-9.0.4
+ - IDE: Eclipse JEE Oxygen
+ - O/S: Windows 10
 
 Instructions to run the project from command line:
 	- Naviagate to sxk173732/ and open command prompt at this location
