@@ -15,9 +15,9 @@ Instructions to run the project from command line:
 		- Read input from console
 			- "java sxk173732.Sxk173732Project6363" or "java sxk173732.Sxk173732Project6363 -"
 				- Enter the amount of gold and number of items required followed by specifications for each item per line
-						- eg: 20 2
-							- 1 2 10 8 10 2 2
-							- 2 2 10 8 10 2 4
+					- eg: 20 2
+						- 1 2 10 8 10 2 2
+						- 2 2 10 8 10 2 4
 		- Read input from file
 			- "java sxk173732.Sxk173732Project6363 <filename>"
 				- <filename> is the absolute path
