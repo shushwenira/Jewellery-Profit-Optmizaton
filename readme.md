@@ -6,20 +6,20 @@ Software stack used while developing and running the project:
 
 Instructions to run the project from command line:
  - Naviagate to sxk173732/ and open command prompt at this location
-  - Compile the source file 
-   - "javac Sxk173732Project6363.java"
+	- Compile the source file 
+		- "javac Sxk173732Project6363.java"
   - Return to previous folder 
-   - cd..
+	- cd..
   - Run using one of the following commands based on the variations
-   - Without enumeration
-    - Read input from console
-     - "java sxk173732.Sxk173732Project6363" or "java sxk173732.Sxk173732Project6363 -"
-      - Enter the amount of gold and number of items required followed by specifications for each item per line
-        eg: 20 2
-            1 2 10 8 10 2 2
-            2 2 10 8 10 2 4
-    - Read input from file
-     - "java sxk173732.Sxk173732Project6363 <filename>"
-      - <filename> is the absolute path
-   - With Enumeration
-    - Add a second parameter whose value is greater than 0 to the above commands
+		- Without enumeration
+			- Read input from console
+				- "java sxk173732.Sxk173732Project6363" or "java sxk173732.Sxk173732Project6363 -"
+					- Enter the amount of gold and number of items required followed by specifications for each item per line
+						eg: 20 2
+							1 2 10 8 10 2 2
+							2 2 10 8 10 2 4
+			- Read input from file
+				- "java sxk173732.Sxk173732Project6363 <filename>"
+					- <filename> is the absolute path
+		- With Enumeration
+			- Add a second parameter whose value is greater than 0 to the above commands
