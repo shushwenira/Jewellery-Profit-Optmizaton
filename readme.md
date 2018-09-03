@@ -20,7 +20,7 @@ Instructions to run the project from command line:
 						-     1 2 10 8 10 2 2
 						-     2 2 10 8 10 2 4
 		- Read input from file
-			- "java sxk173732.Sxk173732Project6363 <filename>"
-				- <filename> is the absolute path
+			- "java sxk173732.Sxk173732Project6363 (filename)"
+				- (filename) is the absolute path
 	- With Enumeration
 		- Add a second parameter whose value is greater than 0 to the above commands
